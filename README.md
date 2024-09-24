@@ -14,4 +14,4 @@ The system can be extended for use in applications like streaming platforms, mov
 3.Content-Based Filtering: Recommends movies by analyzing genres, cast, and descriptions.
 4.Hybrid Recommendations: Combines collaborative and content-based approaches for enhanced suggestions.
 5.Movie Search: Search functionality for specific movies.
-6Movie Information: Displays detailed movie information including genre, cast, and description.
+6.Movie Information: Displays detailed movie information including genre, cast, and description.
