@@ -32,3 +32,32 @@ The system works with movie datasets that contain:
 If you are using the MovieLens Dataset, it typically comes with two files:
 
     movies.csv: Contains movie titles and genres.
+
+
+#Required Libraries:
+
+Make sure to install the following dependencies, listed in requirements.txt:
+
+
+1.numpy
+
+2.pandas
+
+3.scikit-learn
+
+4.flask
+
+5.requests
+
+6.beautifulsoup4
+
+
+
+#Technologies Used
+
+    Python: Core language for implementing the recommendation algorithms.
+    
+    Pandas & NumPy: Data processing and analysis.
+    
+    Scikit-learn: Used for implementing collaborative filtering and content-based filtering algorithms.
+    
